@@ -1,0 +1,10 @@
+{
+  "prettier.endOfLine": "crlf",
+  "liveServer.settings.fullReload": true,
+  "files.autoSave": "afterDelay",
+  "liveServer.settings.CustomBrowser": "chrome",
+  "liveServer.settings.useWebExt": true,
+  "liveServer.settings.wait": 3,
+  "fiveServer.php.executable": "C:\\\\xampp\\\\php\\\\php.exe",
+  "fiveServer.port": 5555
+}
