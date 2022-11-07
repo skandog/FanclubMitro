@@ -8,6 +8,7 @@ on:
 jobs:
   likingtweets:
     runs-on: ubuntu-latest
+    environment: Tweetliker
     env:
       CONSUMER_KEY: ${{ secrets.CONSUMER_KEY }}
       CONSUMER_SECRET: ${{ secrets.CONSUMER_SECRET }}
