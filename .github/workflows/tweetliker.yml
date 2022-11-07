@@ -1,0 +1,22 @@
+name: tweetliker
+
+on:
+  schedule:
+    - cron: "0,30 * * * *"
+
+jobs:
+  londonmapbot-post:
+    runs-on: ubuntu-latest
+    env:
+      CONSUMER_KEY: ${{ secrets.CONSUMER_KEY }}
+      CONSUMER_SECRET: ${{ secrets.CONSUMER_SECRET }}
+      ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+      ACCESS_TOKEN_SECRET: ${{ secrets.ACCESS_TOKEN_SECRET }}
+    steps:
+      - uses: actions/checkout@v2
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+        php-version: 8.1.10
+      - name: search and like tweets
+        run: php tweetliker.php
