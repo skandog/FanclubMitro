@@ -36,9 +36,10 @@ $result = $connection->post("statuses/update", ["status" => $status]);
 
 if ($connection->getLastHttpCode() == 200) {
     echo "Your Tweet posted successfully.";
-    var_dump($result);
+    print_r($result);
 } else {
     echo $connection->getLastHttpCode();
+    print_r($result);
     echo 'error: ' . $result->errors[0]->message;
 }
 
