@@ -19,20 +19,41 @@ $settings = array(
 
 $connection = new TwitterOAuth(CONSUMER_KEY, CONSUMER_SECRET, ACCESS_TOKEN, ACCESS_TOKEN_SECRET);
 
-$statuses = $connection->get("search/tweets", ["q" => "#ffc", "count" => 22])->statuses;
+function tweetliker($q, $count)
+{
+    global $connection;
+    $statuses = $connection->get("search/tweets", ["q" => $q, "count" => $count])->statuses;
 
-foreach ($statuses as $st) {
-    // echo "text: " . $x->text . "<br/>";
-    $response = $connection->post('favorites/create', ['id' => $st->id]);
+    foreach ($statuses as $st) {
+        // echo "text: " . $x->text . "<br/>";
+        $response = $connection->post('favorites/create', ['id' => $st->id]);
 
 
-    if ($connection->getLastHttpCode() == 200) {
-        echo "You liked tweet with id " . $st->id . "successfully." . "<br/>";
-    } else {
-        echo $connection->getLastHttpCode();
-        echo 'error: ' . $response->errors[0]->message . "<br/>";
+        if ($connection->getLastHttpCode() == 200) {
+            echo "You liked tweet with id " . $st->id . " successfully." . "<br/>" . "tweet text: " . $st->text . "<br/>";
+        } else {
+            echo $connection->getLastHttpCode();
+            echo 'error: ' . $response->errors[0]->message . "<br/>";
+        }
     }
 }
+
+tweetliker("#php", 25);
+
+// $statuses = $connection->get("search/tweets", ["q" => "#ffc", "count" => 22])->statuses;
+
+// foreach ($statuses as $st) {
+//     // echo "text: " . $x->text . "<br/>";
+//     $response = $connection->post('favorites/create', ['id' => $st->id]);
+
+
+//     if ($connection->getLastHttpCode() == 200) {
+//         echo "You liked tweet with id " . $st->id . "successfully." . "<br/>";
+//     } else {
+//         echo $connection->getLastHttpCode();
+//         echo 'error: ' . $response->errors[0]->message . "<br/>";
+//     }
+// }
 
 
 // $response = $connection->post('favorites/create', ['id' => 1589637735207538689]);
