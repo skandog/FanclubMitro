@@ -25,12 +25,6 @@ $status = 'Testing, testing. Any #mitro fans out there?';
 
 
 $result = $connection->post("statuses/update", ["status" => $status]);
-// try {
-//     //actual code
-//     echo "tweeeeeting";
-// } catch (Exception $e) {
-//     echo $e->getMessage();
-// }
 
 
 

@@ -1,0 +1,31 @@
+<?php
+require_once('config.php');
+require_once('TwitterAPIExchange.php');
+
+// Moving to abes twit auth
+require_once "vendor/autoload.php";
+
+use Abraham\TwitterOAuth\TwitterOAuth;
+
+
+
+// settings for twitter api connection
+$settings = array(
+    'oauth_access_token' => ACCESS_TOKEN,
+    'oauth_access_token_secret' => ACCESS_TOKEN_SECRET,
+    'consumer_key' => CONSUMER_KEY,
+    'consumer_secret' => CONSUMER_SECRET
+);
+
+$connection = new TwitterOAuth(CONSUMER_KEY, CONSUMER_SECRET, ACCESS_TOKEN, ACCESS_TOKEN_SECRET);
+
+$statuses = $connection->get("search/tweets", ["q" => "mitrovic", "count" => 20]);
+
+
+
+
+
+// $response = $connection->post('favorites/create', ['id' => 1589637735207538689]);
+
+
+print_r($statuses);
