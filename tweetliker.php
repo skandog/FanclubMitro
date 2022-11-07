@@ -1,5 +1,5 @@
 <?php
-require_once('config.php');
+// require_once('config.php');
 require_once('TwitterAPIExchange.php');
 
 // Moving to abes twit auth
