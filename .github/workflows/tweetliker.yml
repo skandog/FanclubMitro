@@ -11,10 +11,6 @@ env:
   CONSUMER_KEY: ${{ secrets.CONSUMER_KEY }}
   CONSUMER_SECRET: ${{ secrets.CONSUMER_SECRET }}
 
-jobs:
-  envvars:
-    - run: echo "My secret is: $ACCESS_TOKEN"
-
 
 
   likingtweets:
@@ -26,5 +22,8 @@ jobs:
         uses: shivammathur/setup-php@v2
         with:
           php-version: 8.1.10
+      - run: echo "Value of MY_SECRET1: $MY_SECRET1"
+        env:
+          MY_SECRET1: ${{ secrets.MY_SECRET1 }}
       - name: search and like tweets
         run: php tweetliker.php
