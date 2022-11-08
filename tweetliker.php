@@ -38,7 +38,7 @@ function tweetliker($q, $count)
     }
 }
 
-tweetliker("mitrovic", 25);
+tweetliker("fulhamish", 25);
 
 
 
