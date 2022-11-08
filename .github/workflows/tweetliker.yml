@@ -13,7 +13,7 @@ env:
 
 jobs:
   envvars:
-    run: echo "My secret is: $ACCESS_TOKEN"
+    - run: echo "My secret is: $ACCESS_TOKEN"
 
 
 
