@@ -12,6 +12,11 @@ env:
   CONSUMER_SECRET: ${{ secrets.CONSUMER_SECRET }}
 
 jobs:
+  envvars:
+    run: echo "My secret is: $ACCESS_TOKEN"
+
+
+
   likingtweets:
     runs-on: ubuntu-latest
     environment: Tweetliker
