@@ -10,10 +10,10 @@ jobs:
     runs-on: ubuntu-latest
     environment: Tweetliker
     env:
-      CONSUMER_KEY: ${{ secrets.CONSUMER_KEY }}
-      CONSUMER_SECRET: ${{ secrets.CONSUMER_SECRET }}
       ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
       ACCESS_TOKEN_SECRET: ${{ secrets.ACCESS_TOKEN_SECRET }}
+      CONSUMER_KEY: ${{ secrets.CONSUMER_KEY }}
+      CONSUMER_SECRET: ${{ secrets.CONSUMER_SECRET }}
     steps:
       - uses: actions/checkout@v2
       - name: Setup PHP
