@@ -7,7 +7,7 @@ require_once "vendor/autoload.php";
 
 use Abraham\TwitterOAuth\TwitterOAuth;
 
-
+// print_r($new_env_var);
 
 // settings for twitter api connection
 $settings = array(

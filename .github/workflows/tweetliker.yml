@@ -9,12 +9,12 @@ jobs:
   likingtweets:
     runs-on: ubuntu-latest
     environment: Tweetliker
+    steps:
     env:
-      ACCESS_TOKEN: "123"
+      ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
       ACCESS_TOKEN_SECRET: ${{ secrets.ACCESS_TOKEN_SECRET }}
       CONSUMER_KEY: ${{ secrets.CONSUMER_KEY }}
       CONSUMER_SECRET: ${{ secrets.CONSUMER_SECRET }}
-    steps:
       - uses: actions/checkout@v2
       - name: Setup PHP
         uses: shivammathur/setup-php@v2
