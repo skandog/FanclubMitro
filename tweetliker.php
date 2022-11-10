@@ -9,7 +9,7 @@ use Abraham\TwitterOAuth\TwitterOAuth;
 
 // print_r($new_env_var);
 
-echo 'My username is ' . $_ENV["ACCESS_TOKEN"] . '!';
+echo 'My username is ' . getenv("ACCESS_TOKEN") . '!';
 
 // settings for twitter api connection
 $settings = array(
