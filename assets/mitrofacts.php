@@ -14,7 +14,6 @@ $facts = [
     "It was a shame for Aleksander that this move did not work out as he was, and remains, a .@NUFC fan",
     "Mitro was loaned to .@FulhamFC in 2018, and the fans were delighted when he signed permanently after helping them achieve promotion to the prem.",
     "We love Mitro he is such a legend!",
-    "Did you know: Mitro was born in Stoke??? I didn't!",
     "It took Mitro only 9 mins to score his first .@ChampionsLeague goal, aged 18. On his official .@FKPartizanBG debut no less!",
     "By the end of his debut season, Mitrović was Partizan's top scorer in all competitions with 15 goals in 36 appearances even though he was one of the youngest players of the team.",
     "Did you know Mitro had a shift between the sticks? On 10 December 2013, in the last round of the .@ChampionsLeague Group stage against Olympiacos, Mitrović replaced goalkeeper Silvio Proto who had been sent off.",
@@ -26,5 +25,6 @@ $facts = [
     "Mitrovic was booked 22 seconds into his debut for .@NUFC - hard to find the stats but I make that one of the quickest bookings for a debut in the .@premierleague",
     "On 20 March 2016, Mitrovic headed the equaliser in a 1–1 draw against arch-rivals .@SunderlandAFC in the Tyne–Wear derby.",
     "On the final day of the 2016 season, with .@NUFC United already relegated, Mitro scored the second in a 5–1 win over 3rd-place .@SpursOfficial. He was also sent off for a shin-high challenge on Kyle Walker.",
-    "He became only the sixth player in Premier League history to score a goal, assist a goal and get sent off in the same match."
+    "He became only the sixth player in Premier League history to score a goal, assist a goal and get sent off in the same match.",
+    "I'm out of facts 😅 for now anyway. I've got a bunch more to add. But if you have anything you want included let me know below!"
 ];
