@@ -6,20 +6,32 @@ use Abraham\TwitterOAuth\TwitterOAuth;
 
 require "assets/mitrofacts.php";
 
-echo $facts[0];
+$storageFile = "storage.txt";
+
+if (!file_exists($storageFile) || file_get_contents($storageFile) >= count($facts)) {
+    file_put_contents($storageFile, "0");
+}
+
+$count = file_get_contents($storageFile);
+
+echo $count;
+file_put_contents($storageFile, ($count + 1));
+
+
+echo $facts[$count];
 
 
 // local settings for twitter api connection - with config
-// require_once('config.php');
+require_once('config.php');
 
-// $settings = array(
-//     'oauth_access_token' => ACCESS_TOKEN,
-//     'oauth_access_token_secret' => ACCESS_TOKEN_SECRET,
-//     'consumer_key' => CONSUMER_KEY,
-//     'consumer_secret' => CONSUMER_SECRET
-// );
+$settings = array(
+    'oauth_access_token' => ACCESS_TOKEN,
+    'oauth_access_token_secret' => ACCESS_TOKEN_SECRET,
+    'consumer_key' => CONSUMER_KEY,
+    'consumer_secret' => CONSUMER_SECRET
+);
 
-// $connection = new TwitterOAuth(CONSUMER_KEY, CONSUMER_SECRET, ACCESS_TOKEN, ACCESS_TOKEN_SECRET);
+$connection = new TwitterOAuth(CONSUMER_KEY, CONSUMER_SECRET, ACCESS_TOKEN, ACCESS_TOKEN_SECRET);
 
 
 
