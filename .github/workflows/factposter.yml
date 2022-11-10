@@ -1,8 +1,9 @@
 name: factposter
 
 on:
-  schedule:
-    - cron: "*/26 * * * *"
+  push
+  # schedule:
+  #   - cron: "*/26 * * * *"
 
 jobs:
   postingfacts:
