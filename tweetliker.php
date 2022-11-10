@@ -7,10 +7,6 @@ require_once "vendor/autoload.php";
 
 use Abraham\TwitterOAuth\TwitterOAuth;
 
-// print_r($new_env_var);
-
-echo 'My username is ' . getenv("ACCESS_TOKEN") . '!';
-
 // local settings for twitter api connection - with config
 // $settings = array(
 //     'oauth_access_token' => ACCESS_TOKEN,
@@ -47,27 +43,7 @@ function tweetliker($q, $count)
     }
 }
 
+
+
+
 tweetliker("mitrovic", 25);
-
-
-
-// $statuses = $connection->get("search/tweets", ["q" => "#ffc", "count" => 22])->statuses;
-
-// foreach ($statuses as $st) {
-//     // echo "text: " . $x->text . "<br/>";
-//     $response = $connection->post('favorites/create', ['id' => $st->id]);
-
-
-//     if ($connection->getLastHttpCode() == 200) {
-//         echo "You liked tweet with id " . $st->id . "successfully." . "<br/>";
-//     } else {
-//         echo $connection->getLastHttpCode();
-//         echo 'error: ' . $response->errors[0]->message . "<br/>";
-//     }
-// }
-
-
-// $response = $connection->post('favorites/create', ['id' => 1589637735207538689]);
-
-
-// print_r($statuses);
