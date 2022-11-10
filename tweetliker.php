@@ -44,6 +44,8 @@ function tweetliker($q, $count)
 }
 
 
+$searchTerms = ["mitrovic", "fulham", "fulhamish", "kebano", "@FulhamishPod
+", "#ffc", "@FulhamFC"];
+$randomIndex = rand(0, count($searchTerms));
 
-
-tweetliker("mitrovic", 25);
+tweetliker($searchTerms[$randomIndex], 25);
