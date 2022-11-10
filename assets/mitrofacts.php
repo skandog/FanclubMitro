@@ -18,5 +18,13 @@ $facts = [
     "It took Mitro only 9 mins to score his first .@ChampionsLeague goal, aged 18. On his official .@FKPartizanBG debut no less!",
     "By the end of his debut season, Mitrović was Partizan's top scorer in all competitions with 15 goals in 36 appearances even though he was one of the youngest players of the team.",
     "Did you know Mitro had a shift between the sticks? On 10 December 2013, in the last round of the .@ChampionsLeague Group stage against Olympiacos, Mitrović replaced goalkeeper Silvio Proto who had been sent off.",
-    "On 5 November 2014, in the .@ChampionsLeague Group D game against Arsenal, he scored the equaliser in the 90th minute, completing .@rscanderlecht 's comeback from 3–0 to 3–3."
+    "On 5 November 2014, in the .@ChampionsLeague Group D game against Arsenal, he scored the equaliser in the 90th minute, completing .@rscanderlecht 's comeback from 3–0 to 3–3.",
+    "On 21 July 2015, Mitrović joined Newcastle United .@NUFC on a five-year contract for a reported £13 million.",
+    '"This is a club with a very big history and the fans are a big part of that. There will be pressure here, for sure, but I like pressure," said Mitrovic.',
+    '"I also know about the famous players who have played for Newcastle United, like Alan Shearer, who is a hero of mine. I hope I can play like him for this club. It will be an honour."',
+    "What do you think? How does Mitro measure up against Shearer at his best?",
+    "Mitrovic was booked 22 seconds into his debut for .@NUFC - hard to find the stats but I make that one of the quickest bookings for a debut in the .@premierleague",
+    "On 20 March 2016, Mitrovic headed the equaliser in a 1–1 draw against arch-rivals .@SunderlandAFC in the Tyne–Wear derby.",
+    "On the final day of the 2016 season, with .@NUFC United already relegated, Mitro scored the second in a 5–1 win over 3rd-place .@SpursOfficial. He was also sent off for a shin-high challenge on Kyle Walker.",
+    "He became only the sixth player in Premier League history to score a goal, assist a goal and get sent off in the same match."
 ];
