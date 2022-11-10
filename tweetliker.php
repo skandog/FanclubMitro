@@ -1,5 +1,5 @@
 <?php
-// require_once('config.php');
+require_once('config.php');
 require_once('TwitterAPIExchange.php');
 
 // Moving to abes twit auth
@@ -38,7 +38,7 @@ function tweetliker($q, $count)
     }
 }
 
-tweetliker("fulhamish", 25);
+tweetliker("mitrovic", 25);
 
 
 
