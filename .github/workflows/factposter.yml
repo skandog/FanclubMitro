@@ -22,8 +22,13 @@ jobs:
           CONSUMER_KEY: ${{ secrets.CONSUMER_KEY }}
           CONSUMER_SECRET: ${{ secrets.CONSUMER_SECRET }}
         run: php factposter.php
+      - name: setup git config
+        run: |
+          # setup the username and email.
+          git config user.name "GitHub Actions Bot"
+          git config user.email "<>"
       - name: commit
-      - run: |
-        git add .
-        git commit -m "updated count"
-        git push origin main
+        run: |
+          git add .
+          git commit -m "updated count"
+          git push origin main
