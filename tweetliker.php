@@ -48,4 +48,6 @@ $searchTerms = ["mitrovic", "fulham", "fulhamish", "kebano", "@FulhamishPod
 ", "#ffc", "@FulhamFC"];
 $randomIndex = rand(0, count($searchTerms));
 
+echo "The search term this time is..." . $searchTerms[$randomIndex] . " with random index of " . $randomIndex;
+
 tweetliker($searchTerms[$randomIndex], 25);
