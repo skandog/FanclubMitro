@@ -1,5 +1,5 @@
 <?php
-require_once('config.php');
+// require_once('config.php');
 require_once('TwitterAPIExchange.php');
 
 // Moving to abes twit auth
@@ -8,6 +8,8 @@ require_once "vendor/autoload.php";
 use Abraham\TwitterOAuth\TwitterOAuth;
 
 // print_r($new_env_var);
+
+var_dump(ACCESS_TOKEN);
 
 // settings for twitter api connection
 $settings = array(
