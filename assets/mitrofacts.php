@@ -26,5 +26,11 @@ $facts = [
     "On 20 March 2016, Mitrovic headed the equaliser in a 1–1 draw against arch-rivals .@SunderlandAFC in the Tyne–Wear derby.",
     "On the final day of the 2016 season, with .@NUFC United already relegated, Mitro scored the second in a 5–1 win over 3rd-place .@SpursOfficial. He was also sent off for a shin-high challenge on Kyle Walker.",
     "He became only the sixth player in Premier League history to score a goal, assist a goal and get sent off in the same match.",
+    "As a result, Mitrović had to wait until 13 September to make his .@SkyBetChamp debut, scoring his first goal of the 2016–17 season at Queens Park Rangers .@QPR",
+    "Even towards the end of his time at .@NUFC, the fans continued to show their support for the striker. He described his recection in a 1-0 win over Palace as a 'still surprising heroes welcome'.",
+    "On 1 February 2018, Mitrović joined (the mighty) .@FulhamFC on loan until the end of the season. The fans would clamour at the end of that season to make the move permanent.",
+    "A few years later, Aleksandar Mitrović is rightly seen as club legend.",
+    "Just a matter of time until theres a statue 😅",
+    
     "I'm out of facts 😅 for now anyway. I've got a bunch more to add. But if you have anything you want included let me know below!"
 ];
