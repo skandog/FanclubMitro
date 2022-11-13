@@ -65,6 +65,8 @@ $facts = [
     "In a 7–0 win against Luton Town on 2 May, Mitrović scored two goals to equal and then break the record of Guy Whittingham for the highest scoring English league season in the current 46 game format by scoring 43 goals in a season. League lenged status confirmed.",
     "The win also confirmed Fulham as the Championship winners.",
     "That 7-0 win was honestly one of the best ever days to be a .@FulhamFC fan - Luton were still playing for the playoff spot, but #ffc decided to put on a show. I wear my scarf league winners scarf regularly 😅",
-    
+    "On the news of .@FulhamFC's promotion, those lazy journos started dribbling doubt about the clubs chances for the 22/23 season. 'Yo-yo club' they would spout. Tbf, fans were nervous. Two consecutive up-downs was tiring.",
+    "On 6 August 2022, in Fulham's first match of the 2022–23 Premier League season, Mitrović scored both goals in a 2–2 home draw against Liverpool. On the way, we were saying we would tak a 4 - 0 loss lmao.",
+    "Mitro was majestic that day, one of his best ever performances. At one point he set off alone against the Liv defense, def not his usual game. Expecting him to lose the race, he Cruyffed and left Virgil in another timezone.",
     "I'm out of facts 😅 for now anyway. I've got a bunch more to add. But if you have anything you want included let me know below!"
 ];
