@@ -48,5 +48,8 @@ $facts = [
     "On 10 July, Mitrović returned to the team, winning and converting a penalty in a 2–0 win over Cardiff City.",
     "On 18 July, Mitrović scored twice and assisted for .@bobbyreid93 (another legend), in a 5–3 win over Sheffield Wednesday, to keep Fulham's slim hopes of automatic promotion alive.",
     "Mitrović finished the season with twenty-six goals, winning the Golden Boot.",
+    "He played a huge part in the 2019/20 play-off final, providing the assist for Joe Bryan's second goal in Fulham's extra-time win over Brentford. Could there be any better opponent to sink in extra time??",  
+    "Mitrović was named the 2019/20 Player of the Season by the club's supporters. Hero.",
+    "",
     "I'm out of facts 😅 for now anyway. I've got a bunch more to add. But if you have anything you want included let me know below!"
 ];
