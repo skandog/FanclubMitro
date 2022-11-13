@@ -62,5 +62,9 @@ $facts = [
     "On 19 April 2022, Mitrović scored his 39th and 40th league goals of the campaign in a 3–0 home win over Preston North End. The result confirmed Fulham's promotion back to the Premier League. Can I a get a 🥳",
     "On 24 April, Mitrović was voted .@SkyBetChamp Player of the Season at the annual EFL Awards. Naturally.",
     "He was also named in the Team of the Season, alongside Fulham teammates .@TosinAdarabioyo, .@Antonee_Jedi and .@harrywilson_. Effin legends.",
+    "In a 7–0 win against Luton Town on 2 May, Mitrović scored two goals to equal and then break the record of Guy Whittingham for the highest scoring English league season in the current 46 game format by scoring 43 goals in a season. League lenged status confirmed.",
+    "The win also confirmed Fulham as the Championship winners.",
+    "That 7-0 win was honestly one of the best ever days to be a .@FulhamFC fan - Luton were still playing for the playoff spot, but #ffc decided to put on a show. I wear my scarf league winners scarf regularly 😅",
+    
     "I'm out of facts 😅 for now anyway. I've got a bunch more to add. But if you have anything you want included let me know below!"
 ];
