@@ -52,6 +52,9 @@ $facts = [
     "Mitrović was named the 2019/20 Player of the Season by the club's supporters. Hero.",
     "Unfortunately 2020/21 season was not kind to Mitro. But to be fair it wasnt great for #ffc either. Mitro would go on a goal droubt that lasted over six months. 😥",
     "Wikipedia says that Mitro was kept out the side by tactical changes, siting Lookman and Cav as playing better. Nonsense. It was that bore Parker that chose to bench him - and at time of writing in 2022, it's now evident that Parker has inferior tactical decision-making.",
-    "",
+    "Following Fulham's return to the Championship, Mitrović was reinstated into the starting line-up by new manager Marco Silva. Real recognise real!",
+    "In August 2021, he scored four goals in four consecutive matches. Lazy journos started trotting out the cliche 'too good for the champs, not good enough for the prem'. Lets just wait and see about that hey 😏",
+    "On 29 September 2021, Mitrović scored his first hat-trick of the season, in a 3–1 home win over Swansea City, with all three goals coming in the first half of the game. At the races.",
+    "His strong start to the season continued into October as he scored eight goals, including another hat-trick, this time against West Bromwich Albion. He was awarded the .@SkyBetChamp Player of the Month award for his efforts.",
     "I'm out of facts 😅 for now anyway. I've got a bunch more to add. But if you have anything you want included let me know below!"
 ];
