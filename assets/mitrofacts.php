@@ -48,7 +48,7 @@ $facts = [
     "On 10 July, Mitrović returned to the team, winning and converting a penalty in a 2–0 win over Cardiff City.",
     "On 18 July, Mitrović scored twice and assisted for .@bobbyreid93 (another legend), in a 5–3 win over Sheffield Wednesday, to keep Fulham's slim hopes of automatic promotion alive.",
     "Mitrović finished the season with twenty-six goals, winning the Golden Boot.",
-    "He played a huge part in the 2019/20 play-off final, providing the assist for Joe Bryan's second goal in Fulham's extra-time win over Brentford. Could there be any better opponent to sink in extra time??",  
+    "He played a huge part in the 2019/20 play-off final, providing the assist for Joe Bryan's second goal in Fulham's extra-time win over Brentford. Could there be any better opponent to sink in extra time??",
     "Mitrović was named the 2019/20 Player of the Season by the club's supporters. Hero.",
     "Unfortunately 2020/21 season was not kind to Mitro. But to be fair it wasnt great for #ffc either. Mitro would go on a goal droubt that lasted over six months. 😥",
     "Wikipedia says that Mitro was kept out the side by tactical changes, siting Lookman and Cav as playing better. Nonsense. It was that bore Parker that chose to bench him - and at time of writing in 2022, it's now evident that Parker has inferior tactical decision-making.",
@@ -56,5 +56,11 @@ $facts = [
     "In August 2021, he scored four goals in four consecutive matches. Lazy journos started trotting out the cliche 'too good for the champs, not good enough for the prem'. Lets just wait and see about that hey 😏",
     "On 29 September 2021, Mitrović scored his first hat-trick of the season, in a 3–1 home win over Swansea City, with all three goals coming in the first half of the game. At the races.",
     "His strong start to the season continued into October as he scored eight goals, including another hat-trick, this time against West Bromwich Albion. He was awarded the .@SkyBetChamp Player of the Month award for his efforts.",
+    "Mitrović scored his third hat-trick of the season in an emphatic 6–2 home win over Bristol City on 15 January 2022, taking his goal tally to 27 league goals in just 24 games. Man said point to prove!",
+    "On 12 February 22, Mitrović scored his 31st goal of the season with the only goal in a victory over Hull City, equalling the record for the most goals in a Championship season set by Ivan Toney the previous year with 16 matches still to play. No messing about!",
+    "He broke this record nine days later, scoring his 32nd and 33rd goals of the season in a 2-1 home win over Peterborough United. No time to lose.",
+    "On 19 April 2022, Mitrović scored his 39th and 40th league goals of the campaign in a 3–0 home win over Preston North End. The result confirmed Fulham's promotion back to the Premier League. Can I a get a 🥳",
+    "On 24 April, Mitrović was voted .@SkyBetChamp Player of the Season at the annual EFL Awards. Naturally.",
+    "He was also named in the Team of the Season, alongside Fulham teammates .@TosinAdarabioyo, .@Antonee_Jedi and .@harrywilson_. Effin legends.",
     "I'm out of facts 😅 for now anyway. I've got a bunch more to add. But if you have anything you want included let me know below!"
 ];
