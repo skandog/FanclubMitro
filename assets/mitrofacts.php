@@ -50,6 +50,8 @@ $facts = [
     "Mitrović finished the season with twenty-six goals, winning the Golden Boot.",
     "He played a huge part in the 2019/20 play-off final, providing the assist for Joe Bryan's second goal in Fulham's extra-time win over Brentford. Could there be any better opponent to sink in extra time??",  
     "Mitrović was named the 2019/20 Player of the Season by the club's supporters. Hero.",
+    "Unfortunately 2020/21 season was not kind to Mitro. But to be fair it wasnt great for #ffc either. Mitro would go on a goal droubt that lasted over six months. 😥",
+    "Wikipedia says that Mitro was kept out the side by tactical changes, siting Lookman and Cav as playing better. Nonsense. It was that bore Parker that chose to bench him - and at time of writing in 2022, it's now evident that Parker has inferior tactical decision-making.",
     "",
     "I'm out of facts 😅 for now anyway. I've got a bunch more to add. But if you have anything you want included let me know below!"
 ];
