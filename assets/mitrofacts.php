@@ -68,5 +68,8 @@ $facts = [
     "On the news of .@FulhamFC's promotion, those lazy journos started dribbling doubt about the clubs chances for the 22/23 season. 'Yo-yo club' they would spout. Tbf, fans were nervous. Two consecutive up-downs was tiring.",
     "On 6 August 2022, in Fulham's first match of the 2022–23 Premier League season, Mitrović scored both goals in a 2–2 home draw against Liverpool. On the way, we were saying we would tak a 4 - 0 loss lmao.",
     "Mitro was majestic that day, one of his best ever performances. At one point he set off alone against the Liv defense, def not his usual game. Expecting him to lose the race, he Cruyffed and left Virgil in another timezone.",
+    "Mitrović scored a 90th minute winner in a 3–2 home win over Brentford on 20 August. As previously mentioned, no better opponent to bag a last minute winner against.",
+    "Mitrović scored his fifth goal of the season in a 2–1 home win over Brighton & Hove Albion, and four days later scored his sixth goal in six Premier League games in a 2–1 away defeat at Tottenham Hotspur.",
+    "He scored in a 2–1 defeat to Arsenal on 27 August, which was his 100th goal for .@FulhamFC while also beating his goal tally from the entire 2020–21 season in just four games. Lazy journos starting to be exposed.",
     "I'm out of facts 😅 for now anyway. I've got a bunch more to add. But if you have anything you want included let me know below!"
 ];
