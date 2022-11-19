@@ -3,7 +3,7 @@ name: factposter
 on:
   # push
   schedule:
-    - cron: "*/26 * * * *"
+    - cron: "*/46 * * * *"
 
 jobs:
   postingfacts:
