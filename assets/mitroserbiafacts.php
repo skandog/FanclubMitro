@@ -20,5 +20,7 @@ $serbfacts = [
     "On 12 November 2020, after extra time in a Euro 2020 qualifying play-off against Scotland, Mitrović went on to take Serbia's fifth penalty and missed it as the penalty shoot-out ended 5–4 in Scotland's favour, thus denying his national team qualification for the tournament. Hurt.",
     "On 27 March 2021, Aleksandar Mitrović became the highest goalscorer in the history of the national side by scoring Serbia's first goal in a 2–2 draw with Portugal, thereby surpassing the previous record of 38 goals by Stjepan Bobek. Record Breaker!",
     "On 14 November 2021, Mitrović scored a last minute winner against Portugal, sending Serbia to the 2022 FIFA World Cup with a 2–1 win. 🥳🏆⚽ #WorldCup is finally here!",
-    "Lets see some scorchers Mitro!"
+    "Mitro! Mitro! Mitro! Mitro! Mitro! Mitro! Mitro! Mitro! Mitro! Mitro!",
+    "Thats a point, do we have any Serbian fan chants for Mitro?? Do they sing Freed From Desire too?",
+    "Thats all the national facts I got for now - any suggestions, or even just shoutouts, dm me or sound off below 😀"
 ];
