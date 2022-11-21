@@ -23,27 +23,27 @@ file_put_contents($storageFile, ($count + 1));
 echo $serbfacts[$count];
 
 
-// local settings for twitter api connection - with config
-require_once('config.php');
+// // local settings for twitter api connection - with config
+// require_once('config.php');
 
-$settings = array(
-    'oauth_access_token' => ACCESS_TOKEN,
-    'oauth_access_token_secret' => ACCESS_TOKEN_SECRET,
-    'consumer_key' => CONSUMER_KEY,
-    'consumer_secret' => CONSUMER_SECRET
-);
+// $settings = array(
+//     'oauth_access_token' => ACCESS_TOKEN,
+//     'oauth_access_token_secret' => ACCESS_TOKEN_SECRET,
+//     'consumer_key' => CONSUMER_KEY,
+//     'consumer_secret' => CONSUMER_SECRET
+// );
 
-$connection = new TwitterOAuth(CONSUMER_KEY, CONSUMER_SECRET, ACCESS_TOKEN, ACCESS_TOKEN_SECRET);
+// $connection = new TwitterOAuth(CONSUMER_KEY, CONSUMER_SECRET, ACCESS_TOKEN, ACCESS_TOKEN_SECRET);
 
 
 
-// // Production settings for api connection - GH Actions
-// $ACCESS_TOKEN = getenv("ACCESS_TOKEN");
-// $ACCESS_TOKEN_SECRET = getenv("ACCESS_TOKEN_SECRET");
-// $CONSUMER_KEY = getenv("CONSUMER_KEY");
-// $CONSUMER_SECRET = getenv("CONSUMER_SECRET");
+// Production settings for api connection - GH Actions
+$ACCESS_TOKEN = getenv("ACCESS_TOKEN");
+$ACCESS_TOKEN_SECRET = getenv("ACCESS_TOKEN_SECRET");
+$CONSUMER_KEY = getenv("CONSUMER_KEY");
+$CONSUMER_SECRET = getenv("CONSUMER_SECRET");
 
-// $connection = new TwitterOAuth($CONSUMER_KEY, $CONSUMER_SECRET, $ACCESS_TOKEN, $ACCESS_TOKEN_SECRET);
+$connection = new TwitterOAuth($CONSUMER_KEY, $CONSUMER_SECRET, $ACCESS_TOKEN, $ACCESS_TOKEN_SECRET);
 
 
 
