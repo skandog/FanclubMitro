@@ -74,6 +74,8 @@ $facts = [
     "He went on to score in the next three consecutive games against Bournmouth, Villa and Leeds.",
     "Following the World Cup break, Mitrović has continued his fine goalscoring form, scoring in a 3–0 away win at Crystal Palace",
     "He was unfortunate to miss a 96th minute penalty in a 2–1 win over Southampton. It was no surprise, however, that the fans instantly chanted his name after the miss.",
+    "He ended 2022 scoring 31 goals in 35 games across the EFL Championship and Premier League",
+    "Never keen to stop, he has kicked off 2023 in Mitro style, scoring the only goal in a away win at Leicester. This secured Fulham's third consecutive Premier League win for the first time since 2009",
     "I'm out of facts 😅 for now anyway. I've got a bunch more to add. But if you have anything you want included let me know below!",
 
 ];
