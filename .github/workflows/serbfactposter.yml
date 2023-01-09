@@ -3,7 +3,7 @@ name: serbfactposter
 on:
   # push
   schedule:
-    - cron: "*/59 * * * *"
+    - cron: "20 */2 * * *"
 
 jobs:
   postingfacts:
