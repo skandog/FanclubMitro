@@ -71,6 +71,9 @@ $facts = [
     "He scored in a 2–1 defeat to Arsenal on 27 August, which was his 100th goal for .@FulhamFC while also beating his goal tally from the entire 2020–21 season in just four games. Lazy journos starting to be exposed.",
     "Mitrović scored his fifth goal of the season in a 2–1 home win over Brighton, and four days later scored his sixth goal in six Premier League games in a 2–1 away defeat at Tottenham Hotspur.",
     "Mitrović returned to the Fulham team after missing one game; a 3–1 away loss at West Ham United Basketball Club",
+    "He went on to score in the next three consecutive games against Bournmouth, Villa and Leeds.",
+    "Following the World Cup break, Mitrović has continued his fine goalscoring form, scoring in a 3–0 away win at Crystal Palace",
+    "He was unfortunate to miss a 96th minute penalty in a 2–1 win over Southampton. It was no surprise, however, that the fans instantly chanted his name after the miss.",
     "I'm out of facts 😅 for now anyway. I've got a bunch more to add. But if you have anything you want included let me know below!",
 
 ];
