@@ -41,7 +41,7 @@ $facts = [
     "Mitrović began the next season in great form, scoring five goals in six matches.",
     "In October, he went on another scoring run with six goals in five matches, including a hat-trick against Luton Town.",
     "He kept scoring throughout November and December, but got injured for a few weeks in January 2020. No worries though, he returned on 1 February against Huddersfield and scored @FulhamFC 's third goal in a 3–2 home win.",
-    " another scoring run during the month, culminating with a stoppage-time winner over Swansea City",
+    "He was unfortunatelty injured in January, but his return in February saw another scoring run during the month, culminating with a stoppage-time winner over Swansea City",
     "Then covid happened, as you know, so there was that break.",
     "On 10 July, Mitrović returned to the team, winning and converting a penalty in a 2–0 win over Cardiff City.",
     "On 18 July, Mitrović scored twice and assisted for .@bobbyreid93 (another legend), in a 5–3 win over Sheffield Wednesday, to keep Fulham's slim hopes of automatic promotion alive.",
