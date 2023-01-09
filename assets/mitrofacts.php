@@ -34,7 +34,7 @@ $facts = [
     "In the six matches played by Fulham in April, Mitrović scored five times, including winning goals against Sheffield Wednesday .@swfc and .@SunderlandAFC",
     "Due to his prolific run of form in March and April 2018, he was the back-to-back .@SkyBetChamp Player of the Month.",
     "The goal against .@SunderlandAFC would prove to be his last for the club in his loan spell, as he did not score in the play-offs, but he did start in the play-off final, with Fulham beating Aston Villa 1–0.",
-    "As a personal aside, that play-off final against Villa was one of my best days of football ever; sun shining and fans singing. Bliss.",
+    "As a personal aside, that play-off final against Villa was one of my fave days of football ever; sun shining and fans singing. Bliss.",
     "On 30 July, Mitrović signed for Fulham permanently for an initial fee of £22 million, potentially rising to £27 million. Bargain.",
     "Mitrović scored four goals in his first three games of the 2018/19 season, which contributed to his total of 11, beating his previous prem scoring record of 9.",
     "Unfortunately that total was not ultimately able to keep FFC up, and they were relagated in the summer of 2019.",
