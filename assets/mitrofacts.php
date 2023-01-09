@@ -76,6 +76,6 @@ $facts = [
     "He was unfortunate to miss a 96th minute penalty in a 2–1 win over Southampton. It was no surprise, however, that the fans instantly chanted his name after the miss.",
     "He ended 2022 scoring 31 goals in 35 games across the EFL Championship and Premier League",
     "Never keen to stop, he has kicked off 2023 in Mitro style, scoring the only goal in a away win at Leicester. This secured Fulham's third consecutive Premier League win for the first time since 2009",
-    "I'm out of facts 😅 for now anyway. I've got a bunch more to add. But if you have anything you want included let me know below!",
+    "I'm out of facts for now. I try to keep this updated as much as possible, but bear with me if am slow. If you have anything you want included or want to get involved, let me know!",
 
 ];
