@@ -11,7 +11,6 @@ $facts = [
     "He won the Belgian Pro League in his first campaign at .@rscanderlecht, and was the league's top scorer in his second.",
     "Mitrović won two different leagues in both of his debut seasons! How mad is that, talisman 🧿",
     "In 2015, Mitro moved to .@NUFC United for £13 million, amid pletny of fanfare for the talented youngster.",
-    "It was a shame for Aleksander that this move did not work out as he was, and remains, a .@NUFC fan",
     "Mitro was loaned to .@FulhamFC in 2018, and the fans were delighted when he signed permanently after helping them achieve promotion to the prem.",
     "We love Mitro he is such a legend!",
     "It took Mitro only 9 mins to score his first .@ChampionsLeague goal, aged 18. On his official .@FKPartizanBG debut no less!",
@@ -72,5 +71,5 @@ $facts = [
     "Mitrović scored his fifth goal of the season in a 2–1 home win over Brighton & Hove Albion, and four days later scored his sixth goal in six Premier League games in a 2–1 away defeat at Tottenham Hotspur.",
     "He scored in a 2–1 defeat to Arsenal on 27 August, which was his 100th goal for .@FulhamFC while also beating his goal tally from the entire 2020–21 season in just four games. Lazy journos starting to be exposed.",
     "I'm out of facts 😅 for now anyway. I've got a bunch more to add. But if you have anything you want included let me know below!",
-    
+
 ];
