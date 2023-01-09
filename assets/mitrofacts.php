@@ -1,7 +1,7 @@
 <?php
 
 $facts = [
-    "Aleksandar Mitrović is a Serbian professional footballer who plays as a striker for Premier League club Fulham and the England.",
+    "Aleksandar Mitrović is a Serbian professional footballer who plays as a striker for Premier League club Fulham.",
     "He won the Serbian SuperLiga in his first season with .@FKPartizanBG, his boyhood club",
     "After dazzling at Partizan, he then joined .@rscanderlecht for a club record €5 million.",
     "Mitrović helped Serbia win the 2013 European Under-19 Championship, being voted the best player of the tournament.",
