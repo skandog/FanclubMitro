@@ -8,6 +8,6 @@ The code for the application is open-source and available on GitHub for anyone t
 
 [Twitter Profile](https://twitter.com/FanclubMitro)
 
-## Automated with Actions
+## Automated with YAML Workflows
 
 Please do submit ideas for more facts!!
